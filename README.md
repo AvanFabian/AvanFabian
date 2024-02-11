@@ -1,9 +1,11 @@
-<h1 align="center">Hello 👋, I'm Fabian</h1>
+<h1 align="center">Hello everyone👋, I'm Fabian</h1>
 <h3 align="center">A passionate Web & Machine Learning Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanfabian&label=Profile%20views&color=0e75b6&style=flat" alt="avanfabian" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, backend development**
+- 🔭 I’m currently a student at **Universitas Negeri Malang**
+
+- 🌱 I’m currently learning **Deep Learning, Fullstack Web Development**
 
 - 👨‍💻 List of my projects are available at [https://fabiandaniswara.vercel.app/](https://fabiandaniswara.vercel.app/)
 
