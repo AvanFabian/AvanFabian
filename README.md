@@ -9,7 +9,7 @@
 
 - 👨‍💻 List of my projects are available at [https://fabiandaniswara.vercel.app/](https://fabiandaniswara.vercel.app/)
 
-- 📝 I want to start writing personal articles on [https://danis-data-blog.vercel.app](https://danis-data-blog.vercel.app)
+- 📝 I want to start writing personal articles on [https://danis-data-blog.vercel.app](https://danis-data-blog.vercel.app) (not hosted yet)
 
 - 💬 Ask me about **Machine Learning, React, Nextjs**
 
