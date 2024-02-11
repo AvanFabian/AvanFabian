@@ -1,7 +1,5 @@
-<h1 align="center">Hello 👋, I'm Avan Fabian Daniswara</h1>
+<h1 align="center">Hello 👋, I'm Fabian</h1>
 <h3 align="center">A passionate Web & Machine Learning Enthusiast from Indonesia</h3>
-
-<img align="center" src="" alt="avanfabian_profilepict" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanfabian&label=Profile%20views&color=0e75b6&style=flat" alt="avanfabian" /> </p>
 
