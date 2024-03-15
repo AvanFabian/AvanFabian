@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Fullstack Web Development**
 
-- 👨‍💻 List of my projects are available at [https://fabiandaniswara.vercel.app/](https://fabiandaniswara.my.id/)
+- 👨‍💻 List of my projects are available at [https://fabiandaniswara.my.id/](https://fabiandaniswara.my.id/)
 
 - 📝 I want to start writing personal articles on [https://danis-data-blog.vercel.app](https://danis-data-blog.vercel.app) (not hosted yet)
 
