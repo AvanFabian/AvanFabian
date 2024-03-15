@@ -11,7 +11,7 @@
 
 - 📝 I want to start writing personal articles on [https://danis-data-blog.vercel.app](https://danis-data-blog.vercel.app) (not hosted yet)
 
-- 💬 Ask me about **Machine Learning, React, Nextjs**
+- 💬 Ask me about **Machine Learning, Basic Fullstack Web**
 
 - 📫 You can reach me at **avanfabiand@gmail.com**
 
