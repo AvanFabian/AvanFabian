@@ -1,17 +1,13 @@
 <h1 align="center">Hello everyone👋, I'm Avan Fabian</h1>
-<h3 align="center">A passionate Web & Machine Learning Enthusiast from Indonesia</h3>
+<h3 align="center">A passionate Tech Person from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanfabian&label=Profile%20views&color=0e75b6&style=flat" alt="avanfabian" /> </p>
 
 - 🔭 I’m currently a student at **Universitas Negeri Malang**
 
-- 🌱 I’m currently learning **Deep Learning, Fullstack Web Development**
+- 🌱 I’m currently doing an **Fullstack App Development**
 
-- 👨‍💻 List of my projects are available at [https://fabiandaniswara.my.id/](https://fabiandaniswara.my.id/)
-
-- 📝 I want to start writing personal articles on [https://danis-data-blog.vercel.app](https://danis-data-blog.vercel.app) (not hosted yet)
-
-- 💬 Ask me about **Machine Learning, Basic Fullstack Web**
+- 👨‍💻 List of my projects are available at [https://fabiandaniswara.my.id/](https://fabiandaniswara.my.id/) (still need development)
 
 - 📫 You can reach me at **avanfabiand@gmail.com**
 
