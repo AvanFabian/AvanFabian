@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **IoT and Apps Integration**
 
-- 👨‍💻 List of my projects are available at [https://fabiandaniswara.my.id/](https://fabiandaniswara.my.id/) (still need development)
+- 👨‍💻 List of my projects are available at [https://fabiandaniswara.my.id/](https://fabiandaniswara.my.id/)
 
 - 📫 You can reach me at **avanfabiand@gmail.com**
 
