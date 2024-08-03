@@ -1,11 +1,10 @@
 <h1 align="center">Hello everyone👋, I'm Avan Fabian</h1>
-<h3 align="center">A passionate Tech Person from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanfabian&label=Profile%20views&color=0e75b6&style=flat" alt="avanfabian" /> </p>
 
 - 🔭 I’m currently a student at **Universitas Negeri Malang**
 
-- 🌱 I’m currently doing an **Fullstack App Development**
+- 🌱 I’m currently learning **IoT and Apps Integration**
 
 - 👨‍💻 List of my projects are available at [https://fabiandaniswara.my.id/](https://fabiandaniswara.my.id/) (still need development)
 
@@ -16,7 +15,6 @@
 <a href="https://linkedin.com/in/avan-fabian-daniswara-4342b1254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avan-fabian-daniswara-4342b1254" height="30" width="40" /></a>
 <a href="https://kaggle.com/avanfabiandaniswara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avanfabiandaniswara" height="30" width="40" /></a>
 <a href="https://instagram.com/avanfabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avanfabian" height="30" width="40" /></a>
-<a href="https://discord.gg/avan_fabian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avan_fabian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
