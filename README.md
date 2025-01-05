@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanfabian&label=Profile%20views&color=0e75b6&style=flat" alt="avanfabian" /> </p>
 
-- 🔭 Undergraduate student at **Universitas Negeri Malang**
-
 - 👨‍💻 List of my projects are available at [https://fabiandaniswara.my.id/](https://fabiandaniswara.my.id/)
 
 - 📫 You can reach me at **avanfabiand@gmail.com**
