@@ -2,13 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanfabian&label=Profile%20views&color=0e75b6&style=flat" alt="avanfabian" /> </p>
 
-A violinist who interest in coding 🎻
-
 - 🔭 I’m currently a student at Universitas Negeri Malang
-- 🌱 I’m currently learning Kotlin Flutter
-- 👯 I’m looking to collaborate as Fullstack Developer
+- 🌱 Tech Enthusiast who interest in Business & Economic 
 - 💬 Know me more on linkedin
-- 📫 How to reach me: avanfabiand@gmail.com
+- 📫 How to reach me: fabian@avandigital.id
 
 ## Education:
 
@@ -21,10 +18,9 @@ A violinist who interest in coding 🎻
 
 - Flutter
 - NextJs
-- Kotlin
-- ReactJs
-- Android Studio
 - Laravel
+- n8n
+- Business Mail Hosting
 
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
